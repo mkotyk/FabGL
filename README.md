@@ -3,6 +3,9 @@
 
 **[Please look here for full API documentation](http://www.fabglib.org)**
 
+**This fork only changes the Altair 8800 simulator. If you hold down the user button on power up (and then release) it will work as the original. If you don't hold the button on down, the console will be set to the COM port (USB) at 115,200 baud. To enter the configuration menu via serial, press the user button briefly. **
+
+
 If you would like to **support FabGL's development**, please see the [**Donations page**][Donations].
 You can also support me getting my own [development board](https://www.tindie.com/products/fabgl/fabgl-development-board/).
 
